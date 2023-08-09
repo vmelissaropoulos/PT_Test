@@ -20,4 +20,4 @@ C:\SomePath\xmlFileName5.xml;_pdg_1
 Run the `generate_random_folders.ps1` script to generate a random folder-file sample structure to work with.
 
 ## Deliverable
-The solution script.
+The solution script and the csv file.
