@@ -1,3 +1,5 @@
-# ptTest
+# PT_Test
+Template repository for the PT_DevOps recruiting process.
 
-Some tests for the pt recruiting process.
+# Create a new reposiroty from template
+https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template
