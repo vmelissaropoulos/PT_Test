@@ -1,7 +1,7 @@
 # Description  
 In the folder XMLS you will find some xml files.  
-Export to a csv file, a list of the xml's fullpath that contains the tag `inputSymbol` with value `<_pdg_list>`. Get the value of the `<value>` tag and append it on the same line.
-You may use any scripting language (batch, bash, etc) or python.
+Export to a csv file, a list of the xml's fullpath that contains the tag `inputSymbol` with value `<_pdg_list>`.  
+Get the value of the `<value>` tag and append it on the same line.  
 
 ## More explanation
 The csv file should look like this:
@@ -17,7 +17,7 @@ C:\SomePath\xmlFileName5.xml;_pdg_1
 
 
 ## Instructions
-Run the `generate_random_folders.ps1` script to generate a random folder-file sample structure to work with.
+You may use any scripting language (batch, bash, etc) or python.
 
 ## Deliverable
 The solution script and the csv file.
