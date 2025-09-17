@@ -1,5 +1,6 @@
 # Description
-Create a script in powershell that will search recursivelly into folders, starting from a given path, for any folder named Action# (where # = number. ex: Action0). Filter only the Action# folder that doesn't have the file 'Script.mts' in it.
+Create a script in powershell that will search recursivelly into folders, starting from a given path, for any folder named Action# (where # = number. ex: Action0).  
+Filter only the Action# folder that doesn't have the file 'Script.mts' in it.
 Return a list with all the fullpath `'Action#'` folders that are missing the *Script.mts*.
 
 ## More explanation
