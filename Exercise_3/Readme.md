@@ -14,8 +14,8 @@ name_3;full_name_3;id_3
 ```  
 
 ## Instructions
-Preparation
-Create a GitHub account (if you don't have already) and set everything up to make the above assignment work.
+Preparation  
+Create a GitHub account (if you don't have one already) and set everything up to make the above assignment work.
 Also create multiple repos to populate the list.
 
 ## Deliverable
