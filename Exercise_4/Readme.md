@@ -13,3 +13,6 @@ Mention differences, similatities, Out-of-the-box integration points and whateve
 
 ## Deliverable
 Powerpoint with no more than 10 slides.
+
+## Goal
+The goal is to see how you respond adapt to new material.
