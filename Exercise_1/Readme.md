@@ -4,10 +4,13 @@ Return a list with all the fullpath `'Action#'` folders that are missing the *Sc
 
 ## More explanation
 In the given folder-file structure there should be a file named *Script.mts* in every `'Action#'` folder.  
-The goal is to identify the folders that don't have it.
+The goal of this exercise is to identify the folders that don't have it.
 
 ## Instructions
 Run the `generate_random_folders.ps1` script to generate a random folder-file sample structure to work with.
 
 ## Deliverable
 The solution script and the folder list in a text file.
+
+## Goal
+The goal is to see your level on common daily tasks our team has to deal with.
