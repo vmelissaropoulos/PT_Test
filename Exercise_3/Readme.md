@@ -20,3 +20,6 @@ Also create multiple repos to populate the list.
 
 ## Deliverable
 The solution script and the csv file.
+
+## Goal
+The goal is to see your level on common daily tasks our team has to deal with.
