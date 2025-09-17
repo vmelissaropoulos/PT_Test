@@ -15,3 +15,6 @@ This is a hard one. You are not expected to solve it but you're expected to do t
 
 ## Deliverable
 Discussion material.
+
+## Goal
+To see how you deal with hard unknown matters.
