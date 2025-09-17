@@ -17,7 +17,7 @@ C:\SomePath\xmlFileName5.xml;_pdg_1
 
 
 ## Instructions
-You may use any scripting language (batch, bash, etc) or python.
+You may use any scripting language (batch, bash, powershell, etc) or python.
 
 ## Deliverable
 The solution script and the csv file.
