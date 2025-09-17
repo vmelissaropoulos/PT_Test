@@ -1,4 +1,4 @@
-#Requires -Version 7
+ #Requires -Version 7
 
 $workingFolder = (Get-Item $PSCommandPath).Directory
 $rootSampleName = "SAMPLE"
@@ -30,14 +30,14 @@ foreach ($aFolder in $(Get-ChildItem -Directory)) {
 
     foreach ($bFolder in Get-ChildItem $aFolder) {
         If ($(Get-Random -Minimum 0 -Maximum 100) -gt 50) {
-            $cFile = Join-Path $bFolder "Script.mts"
+            $cFile = Join-Path $bFolder.FullName "Script.mts"
             New-Item $cFile -ItemType File
         }
 
         for ($z = 0; $z -lt $(Get-Random -Minimum 2 -Maximum 10); $z++) {
             $randFileName = -join ((65..90) + (97..122) | Get-Random -Count $(Get-Random -Minimum 5 -Maximum 10) | % { [char]$_ })
-            $randFile = Join-Path $bFolder $randFileName
+            $randFile = Join-Path -Path $bFolder.FullName -ChildPath $randFileName
             New-Item "$($randFile).mts" -ItemType File
         }
     }
-}
+} 
