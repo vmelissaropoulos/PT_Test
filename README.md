@@ -10,4 +10,4 @@ Push all your files into the repository created following the above process.
 ## Limitations  
 You are allowed to use any means to reach the solution.  
 You are expected to make use of the internet, ai and anything else available in your disposal, exactly the same way you would on a daily basis.
-You are also expected to understand the provided solutions and be able to talk about them, though.
+You are also expected to understand the provided solutions and be able to talk about them.
