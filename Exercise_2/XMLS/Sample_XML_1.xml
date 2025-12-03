@@ -58,7 +58,7 @@
         <USPrice>45.99</USPrice>
         <inputSymbol>_pdg_list</inputSymbol>
         <listDelimiter>,</listDelimiter>
-        <value>20850,20800</value>
+        <value>20850</value>
       </Item>
     </Items>
   </PurchaseOrder>
