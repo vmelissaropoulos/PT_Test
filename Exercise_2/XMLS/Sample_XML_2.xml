@@ -26,7 +26,7 @@
         <Comment>Confirm this is electric</Comment>
         <inputSymbol>_pdg_list</inputSymbol>
         <listDelimiter>,</listDelimiter>
-        <value>65284,48532</value>
+        <value>48532</value>
       </Item>
       <Item PartNumber="926-AA">
         <ProductName>Baby Monitor</ProductName>
