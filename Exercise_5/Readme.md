@@ -7,7 +7,7 @@ Create a Javascript script that will:
 ## More explanation
 Prerequisites  
 - Oracle DB.  
-You can set up one on Azure.  
+You can set up one on Azure or run one locally on Docker from from Docker Hub [ https://hub.docker.com/r/gvenzl/oracle-free ]  
 There's a free 150euro/month subscription for new users.
 
 ## Instructions
