@@ -33,7 +33,7 @@
         <Quantity>2</Quantity>
         <USPrice>39.98</USPrice>
         <ShipDate>1999-05-21</ShipDate>
-        <inputSymbol>_pdg_list</inputSymbol>
+        <inputSymbol>_pdg_lista</inputSymbol>
         <listDelimiter>,</listDelimiter>
         <value>96556,13588</value>
       </Item>
